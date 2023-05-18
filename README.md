@@ -1,8 +1,8 @@
-# hi
+# readme generator
 ![Github license](https://img.shields.io/badge/license-MIT-red.svg)
 
   ## Description
-  hello
+  create profile
 
   ## Table Of Contents
   
@@ -14,17 +14,29 @@
   * [Questions](questions)
 
   ## Installation
-  dajskd
+  node.js
+
   ## Usage
-  fd
+  standard
+
   ## License
-  MIT
-  ## Creator
-  fd 
-  ## Contributors
   
+  [License Info](https://choosealicense.com/licenses/)
+
+  ![Github license](https://img.shields.io/badge/license-MIT-red.svg)
+  
+
+  ## Creator
+  melwang1 
+  [Contributors Profile](https://github.com/melwang1 )
+
+  ## Contributors
+  mel
+
   ## Tests
-  fds
+  yes
+
   ## Questions
-  d
+  Feel free to reach out for any questions related to this prpject
+  melaniiewang@hotmail.com
 
