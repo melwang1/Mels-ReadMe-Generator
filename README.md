@@ -1,8 +1,8 @@
-# readme generator
+# ReadMe Generator
 ![Github license](https://img.shields.io/badge/license-MIT-red.svg)
 
   ## Description
-  create profile
+  to create a readme with all the user story and acceptance criteria
 
   ## Table Of Contents
   
@@ -17,7 +17,7 @@
   node.js
 
   ## Usage
-  standard
+  bootcamp
 
   ## License
   
@@ -31,7 +31,7 @@
   [Contributors Profile](https://github.com/melwang1 )
 
   ## Contributors
-  mel
+  Mel
 
   ## Tests
   yes
